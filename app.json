@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "alert-hknzbyn",
-    "slug": "alert-hknzbyn",
+    "name": "toast-hknzbyn",
+    "slug": "toast-hknzbyn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
